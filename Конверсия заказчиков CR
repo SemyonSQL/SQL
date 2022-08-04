@@ -2,7 +2,7 @@
 
 #### Конверсия — одна из самых важных метрик. Она показывает, какая доля посетителей совершает целевое для бизнеса действие.
 
- [Ссылка на сэмпл базы Northwind](https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs)
+Cэмпл базы Northwind можно найти например тут - (https://github.com/pthom/northwind_psql/blob/master/northwind.sql)
  
  
  WITH a as (SELECT 
