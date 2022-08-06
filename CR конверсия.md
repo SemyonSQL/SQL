@@ -39,7 +39,10 @@ SELECT
 FROM a
 LEFT JOIN c ON a.mnth = c.min_month 
 ```
-  
+#### Датафрейм конверсии
+ 
  <img width="559" alt="CR dataframe" src="https://user-images.githubusercontent.com/107502986/182956474-cf380887-d6b5-4ebd-a399-882e6af256a0.png">
+ 
+#### Визуализация
  
  <img width="739" alt="Конверсия" src="https://user-images.githubusercontent.com/107502986/183235730-8aba5811-ff6f-45a7-9b2b-ec9bd06b4d52.png">
